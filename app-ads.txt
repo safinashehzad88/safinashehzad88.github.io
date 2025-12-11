@@ -20,6 +20,7 @@ facebook.com, 949983869006301, RESELLER, c3e20eee3f780d68
 facebook.com, 500306394902498, RESELLER, c3e20eee3f780d68
 facebook.com, 362405729199378, RESELLER, c3e20eee3f780d68
 facebook.com, 376819131167328, RESELLER, c3e20eee3f780d68
+facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
 
 #applovin
 applovin.com, 6326bddd8f8863e830ea22b90047bbcb, DIRECT
